@@ -1,0 +1,15 @@
+{
+  "oneWayTrip_radioBTN": "input[value='oneWay']",
+  "roundTrip_radioBTN": "input[value='roundTrip']",
+  "multiCity_radioBTN": "input[value='multiCity']",
+  "departureCity_input": "input[placeholder='Departure City']",
+  "dropdown_BIM": "div.select-label:has-text('BIM')",
+  "dropdown_CAT": "div.select-label:has-text('CAT')",
+  "dropdown_ELH": "div.select-label:has-text('ELH')",
+  "chooseDestination_input": "#flights_0_destination",
+  "departureDate_input": "input[placeholder='Depart Date']",
+  "returnDate_input": "#flights_0_returnDate",
+  "passenger_input": "span.ant-select-selection-item",
+  "calendar_cell": ".ant-picker-cell-inner",
+  "passenger_dropdown": "div:has-text('Adults')"
+}

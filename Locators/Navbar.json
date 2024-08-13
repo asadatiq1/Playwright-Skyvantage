@@ -1,0 +1,5 @@
+{
+  "searchFlights_BTN": "button[text='Search Flights']",
+  "myFlights_BTN": "button[text='My Flights']",
+  "checkFlightStatus_BTN": "button[text='Check Flight Status']"
+}
